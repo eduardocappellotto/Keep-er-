@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Uma aplicação web feita em React.js, 
+baseada no Google Keep. 
+Aplicação realizada com o objetivo de melhorar meus conhecimentos em React.
 
 ## Available Scripts
 
